@@ -1,0 +1,6 @@
+page
+https://discord.com/developers/applications/855835654583877656/bot
+oauth
+https://discord.com/api/oauth2/authorize?client_id=855835654583877656&permissions=67112000&scope=bot
+email
+https://realpython.com/python-send-email/
